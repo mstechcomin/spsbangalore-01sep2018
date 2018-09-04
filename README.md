@@ -20,6 +20,16 @@ Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentat
 | 10 | Suhail Jamaldeen | Make Business Decisions with SharePoint Online Data and Power BI | [OneDrive](https://1drv.ms/p/s!Aou2QDej1P86rwd6sQ3QB-fxQzSu  "PowerPoint on OneDrive")  |
 | 11 | Vignesh Ganesan / Jayanthi P | Overview of SharePoint Server 2019 | [SlideShare](https://www.slideshare.net/VigneshGanesanMCPMCI/sharepoint-saturday-bangalore-overview-of-sharepoint-server-2019/VigneshGanesanMCPMCI/sharepoint-saturday-bangalore-overview-of-sharepoint-server-2019 "Vignesh's Personal SlideShare")  |
 
+## SharePoint/Office365 User Groups in Bangalore
+
+* SharePoint Bangalore on [Facebook](http://www.spsevents.org/ "SharePoint Bangalore")
+
+* Bangalore ITPro / PowerShell on [Facebook](http://www.spsevents.org/city/Bangalore/Bangalore2018/ "Bangalore ITPro / PowerShell")
+
+* C# Corner Bangalore Chapter on [Facebook](http://www.spsevents.org/city/Bangalore/Bangalore2018/ "Bangalore ITPro / PowerShell")
+
+* aOS Bangalore Chapter on [Facebook](http://www.spsevents.org/city/Bangalore/Bangalore2018/ "Bangalore ITPro / PowerShell")
+
 ## SharePoint Saturday Events
 
 * Want to find out global SharePoint Saturday events? Visit [SPSEvents](http://www.spsevents.org/ "SharePoint Saturdays Home Page")
