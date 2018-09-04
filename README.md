@@ -8,7 +8,7 @@ Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentat
 
 | Sl# | Speaker Name | Session Title | Presentation / Links |
 |:---:|:-----------|:---------|:------------|
-| 1 | Abhishek Purohit | Introduction to developing application for Office365. SharePoint Online Event Handling using Web hooks and Azure Functions | North |
+| 1 | Abhishek Purohit | Introduction to developing application for Office365. <br/>SharePoint Online Event Handling using Web hooks and Azure Functions | <i>TBD</i> |
 | 2 | Bijay Kumar Sahoo | Workflow Development using Visual Studio 2017 for SharePoint Online | [OneDrive](https://1drv.ms/p/s!Aou2QDej1P86rwUYPdTofQg74N3u  "PowerPoint on OneDrive")  |
 | 3 | Chendrayan Venkatesan | Use PowerShell and Node.js to work with SharePoint data | [GitHub](https://github.com/ChendrayanV/Events-2018-2019/tree/master/SPSEvents-SEP2018  "Chen's Personal GitHub")  |
 | 4 | Dipti Chhatrapati | Being insightful is the only way to get on SharePoint Hybrid | [OneDrive](https://1drv.ms/p/s!Aou2QDej1P86gzOxXgtSZRKonHDu  "PowerPoint on OneDrive")  |
