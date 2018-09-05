@@ -11,7 +11,7 @@ Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentat
 | 1 | Abhishek Purohit | Introduction to developing application for Office365. <br/>SharePoint Online Event Handling using Web hooks and Azure Functions | <i>TBD</i> |
 | 2 | Bijay Kumar Sahoo | Workflow Development using Visual Studio 2017 for SharePoint Online | [OneDrive](https://1drv.ms/p/s!Aou2QDej1P86rwUYPdTofQg74N3u  "PowerPoint on OneDrive")  |
 | 3 | Chendrayan Venkatesan | Use PowerShell and Node.js to work with SharePoint data | [GitHub](https://github.com/ChendrayanV/Events-2018-2019/tree/master/SPSEvents-SEP2018  "Chen's Personal GitHub")  |
-| 4 | Dipti Chhatrapati | Being insightful is the only way to get on SharePoint Hybrid | [OneDrive](https://1drv.ms/p/s!Aou2QDej1P86gzOxXgtSZRKonHDu  "PowerPoint on OneDrive")  |
+| 4 | Dipti Chhatrapati | Being insightful is the only way to get on SharePoint Hybrid | [SlideShare](https://www.slideshare.net/DiptiChhatrapati/sps-bangalore-2018-sharepoint-hybrid  "Dipti's Personal SlideShare")  |
 | 5 | Jasjit Chopra | Running SharePoint 2016 in Azure - The Do's and the Dont's | [SlideShare](https://www.slideshare.net/jasjitchopra/running-sharepoint-2016-in-azure-the-dos-and-the-donts "Jasjit's Personal SlideShare")  |
 | 6 | Kirti Prajapati | SPFx Extensions - Personalize/Customize your Modern Sites | [SlideShare](https://www.slideshare.net/kirtiprajapati/spfx-extensions-personalizecustomize-your-modern-sites "Kirti's Personal SlideShare")  |
 | 7 | Manoj Mittal | Build Intelligent Azure Bot using Cognitive Services with SharePoint Online | [SlideShare](https://www.slideshare.net/ManojMittal12/build-intelligent-azure-bot-using-cognitive-services-with-sharepoint-online  "Manoj's Personal SlideShare")  |
