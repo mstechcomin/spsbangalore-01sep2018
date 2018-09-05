@@ -2,9 +2,9 @@
 
 Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentation links from all Speakers. Reach out to us on Twitter [@SPSBangalore](https://twitter.com/spsbangalore "SharePoint Saturday Bangalore") for any further inputs (Hash tag #SPSBangalore).
 
-## Welcome/Keynote Presentation
+## Opening Presentation
 
-Event Keynote - [SlideShare](https://www.slideshare.net/DiptiChhatrapati/sps-bangalore-2018-opening-113042137  "Keynote")  
+Opening Presentation - [SlideShare](https://www.slideshare.net/DiptiChhatrapati/sps-bangalore-2018-opening-113042137  "Opening/Welcome Presentation")  
 
 ## Session Presentations
 
