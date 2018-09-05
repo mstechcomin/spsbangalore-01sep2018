@@ -20,16 +20,23 @@ Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentat
 | 10 | Suhail Jamaldeen | Make Business Decisions with SharePoint Online Data and Power BI | [OneDrive](https://1drv.ms/p/s!Aou2QDej1P86rwd6sQ3QB-fxQzSu  "PowerPoint on OneDrive")  |
 | 11 | Vignesh Ganesan / Jayanthi P | Overview of SharePoint Server 2019 | [SlideShare](https://www.slideshare.net/VigneshGanesanMCPMCI/sharepoint-saturday-bangalore-overview-of-sharepoint-server-2019/VigneshGanesanMCPMCI/sharepoint-saturday-bangalore-overview-of-sharepoint-server-2019 "Vignesh's Personal SlideShare")  |
 
-## SharePoint/Office365 User Groups in Bangalore
-
+## SharePoint/Office365/Microsoft User Groups in Bangalore
+These are links to Microsoft Technology related User Groups that runs in-person / online meetups.
 * SharePoint Bangalore | [Facebook](https://www.facebook.com/groups/spbangalore/ "Facebook") | [Twitter](https://twitter.com/spbangalore "Twitter")
 
 * Bangalore IT Pro + PowerShell User Group | [Facebook](https://www.facebook.com/groups/psbug/ "Facebook")
 
 * aOS Community | [Facebook](https://www.facebook.com/aosComm/ "Facebook")
 
-* C# Corner Bengaluru Chapter | [Facebook](https://www.c-sharpcorner.com/chapters/bengaluru-chapter "C# Corner Bengaluru Chapter")
+* C# Corner Bengaluru Chapter | [Website](https://www.c-sharpcorner.com/chapters/bengaluru-chapter "C# Corner Bengaluru Chapter")
 
+* Microsoft Azure User Group Bangalore | [Meetup](https://www.meetup.com/Microsoft-Azure-Bangalore/  "Meetup")
+
+* Bangalore .NET User Group | [Facebook](https://www.facebook.com/groups/BDotNet/  "Facebook")
+
+* SQL Bangalore | [Facebook](https://www.facebook.com/groups/SQLBangalore/   "Facebook")
+
+* DataPlatformGeeks | [Website](http://www.dataplatformgeeks.com/ "Website")
 
 ## SharePoint Saturday Events
 
