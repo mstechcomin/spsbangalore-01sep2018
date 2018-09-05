@@ -22,13 +22,14 @@ Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentat
 
 ## SharePoint/Office365 User Groups in Bangalore
 
-* SharePoint Bangalore 
+* SharePoint Bangalore | [Facebook](https://www.facebook.com/groups/spbangalore/ "Facebook") | [Twitter](https://twitter.com/spbangalore "Twitter")
 
-* Bangalore ITPro / PowerShell
+* Bangalore IT Pro + PowerShell User Group | [Facebook](https://www.facebook.com/groups/psbug/ "Facebook")
 
-* C# Corner Bangalore Chapter
+* aOS Community | [Facebook](https://www.facebook.com/aosComm/ "Facebook")
 
-* aOS Bangalore Chapter
+* C# Corner Bengaluru Chapter | [Facebook](https://www.c-sharpcorner.com/chapters/bengaluru-chapter "C# Corner Bengaluru Chapter")
+
 
 ## SharePoint Saturday Events
 
