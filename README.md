@@ -4,7 +4,7 @@ Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentat
 
 ## Opening Presentation
 
-Opening Presentation - [SlideShare](https://www.slideshare.net/DiptiChhatrapati/sps-bangalore-2018-opening-113042137  "Opening/Welcome Presentation")  
+Opening Presentation - [SlideShare](https://www.slideshare.net/DiptiChhatrapati/sps-bangalore-2018-opening-113499093  "Opening/Welcome Presentation")  
 
 ## Session Presentations
 
